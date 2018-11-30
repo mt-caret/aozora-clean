@@ -1,0 +1,9 @@
+[package]
+name = "aozora-clean"
+version = "0.1.0"
+authors = ["Masayuki Takeda <mtakeda.enigsol@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+libc = "0.2.44"
+regex = "1"
